@@ -1,0 +1,12 @@
+1.安装node
+2.安装淘宝镜像
+3.全局安装vue-cli cnpm insatll -g vue-cli
+4.初始化一个项目 vue init webpack <demo name>
+5. 安装vuex cnpm install vuex --save
+6. 安装sass cnpm insatll node-sass sass-loader --save-dev
+7. 国际化插件
+8. tool-tip
+9. 自定义插件
+10. 反向代理
+11. 修改打包路径
+12. 代码检查
